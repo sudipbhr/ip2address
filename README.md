@@ -1,6 +1,6 @@
 # ip2address
-
-  {
+### response
+``` {
    "ip":"27.34.108.66",
    "network":"27.34.108.0/24",
    "version":"IPv4",
@@ -29,3 +29,4 @@
    "asn":"AS17501",
    "org":"WorldLink Communications Pvt Ltd"
 }
+```
