@@ -1,7 +1,7 @@
 # ip2address
 ### response
 ``` {
-   "ip":"27.34.108.66",
+   "ip":"27.34.108.**",
    "network":"27.34.108.0/24",
    "version":"IPv4",
    "city":"Kaski",
@@ -16,8 +16,8 @@
    "continent_code":"AS",
    "in_eu":false,
    "postal":"None",
-   "latitude":28.2522,
-   "longitude":83.9094,
+   "latitude":28.252*,
+   "longitude":83.*094,
    "timezone":"Asia/Kathmandu",
    "utc_offset":"+0545",
    "country_calling_code":"+977",
